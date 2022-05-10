@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:47:39 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Tue May  3 16:21:27 2022
+# Process ID: 26111
+# Current directory: /home/jeffb/Vivado_Projects/ECE520_Final_Projects/oled_switches/hardware/oled_switches_proj/oled_switches_proj.runs/oled_switches_design_processing_system7_0_0_synth_1
+# Command line: vivado -log oled_switches_design_processing_system7_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source oled_switches_design_processing_system7_0_0.tcl
+# Log file: /home/jeffb/Vivado_Projects/ECE520_Final_Projects/oled_switches/hardware/oled_switches_proj/oled_switches_proj.runs/oled_switches_design_processing_system7_0_0_synth_1/oled_switches_design_processing_system7_0_0.vds
+# Journal file: /home/jeffb/Vivado_Projects/ECE520_Final_Projects/oled_switches/hardware/oled_switches_proj/oled_switches_proj.runs/oled_switches_design_processing_system7_0_0_synth_1/vivado.jou
+# Running On: jeffb-lenovo-laptop, OS: Linux, CPU Frequency: 4014.129 MHz, CPU Physical cores: 12, Host memory: 14575 MB
+#-----------------------------------------------------------
+source oled_switches_design_processing_system7_0_0.tcl -notrace
